@@ -1,0 +1,38 @@
+body {
+            font-family: Arial;
+            margin: 30px;
+        }
+        h1 {
+            color: bisque;
+        }
+        h2 {
+            color: khaki;
+        }
+        form {
+            padding: 20px;
+            width: 400px;
+        }
+        input, select {
+            width: 95%;
+            padding: 8px;
+        }
+        button {
+            padding: 8px 15px;
+            background-color: blanchedalmond;
+            color: black;
+            cursor: pointer;
+        }
+        table {
+            width: 100%;
+            background-color: whitesmoke;
+            border-collapse: collapse;
+        }
+        th {
+            background-color: beige;
+            color: black;
+        }
+        th,td {
+            padding: 10px;
+            border: 1px solid black;
+            text-align: left;
+        }
